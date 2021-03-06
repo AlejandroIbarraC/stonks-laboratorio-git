@@ -2,8 +2,8 @@
 # Cada línea es el patrón de un archivo seguido por uno o más propietarios.
 
 # Estos propietarios serán los propietarios predeterminados para todo en # el repositorio. A menos que una coincidencia posterior tenga prioridad, se le solicitará # revisión a # @global-owner1 y @global-owner2 cuando alguien abra una solicitud de extracción.
-java-rest-api/* @Skryfall @juan230500 @shuzz22260427 @AlejandroIbarraC
-api-gateway/* @Skryfall @juan230500 @shuzz22260427 @AlejandroIbarraC
-frontend/* @Skryfall @juan230500 @shuzz22260427 @AlejandroIbarraC
-ml-library/* @Skryfall @juan230500 @shuzz22260427 @AlejandroIbarraC
+java-rest-api/ @Skryfall @juan230500 @shuzz22260427 @AlejandroIbarraC
+api-gateway/ @Skryfall @juan230500 @shuzz22260427 @AlejandroIbarraC
+frontend/ @Skryfall @juan230500 @shuzz22260427 @AlejandroIbarraC
+ml-library/ @Skryfall @juan230500 @shuzz22260427 @AlejandroIbarraC
 
